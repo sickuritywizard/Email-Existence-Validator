@@ -20,13 +20,13 @@ python3 EmailValidatorAdvanced.py --help
 Usage:
 Options:
 
-  -h, --help                        [-]show this help message and exit
+  -h, --help                             [-]show this help message and exit
   
-  -e email, --email=EmailAddress    [-]Specify Email Address Ex: killer@yahoo.com
+  -e email,      --email=EmailAddress    [-]Specify Email Address Ex: killer@yahoo.com
   
-  -w WORDLIST, --wordlist=WORDLIST  [-]Use a wordlist to bruteForce Multiple Emails
+  -w WORDLIST,   --wordlist=WORDLIST     [-]Use a wordlist to bruteForce Multiple Emails
 
-  -t THREADS, --threads=THREADS     [-]Number of threads [default=2]
+  -t THREADS,   --threads=THREADS        [-]Number of threads [default=2]
   
 ------------------------------------------------------------------------------------
 Examples:

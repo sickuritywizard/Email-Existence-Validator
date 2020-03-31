@@ -2,6 +2,8 @@
 
 Python3 program to verify if an email exists or not
 
+Use a wordlist to Bruteforce multiple accounts or verify a single Email.
+
 Requirements:
 
 pip3 install dnspython3

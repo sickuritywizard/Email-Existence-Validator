@@ -1,4 +1,4 @@
-# Subdomain_Discover
+# Email Validator
 
 Python3 program to verify if an email exists or not
 
